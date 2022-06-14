@@ -1,0 +1,17 @@
+{
+  "name": "nodejs-web-server",
+  "version": "1.0.0",
+  "description": "nodejs web server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "web",
+    "server"
+  ],
+  "author": "vernandodev",
+  "license": "ISC"
+}
